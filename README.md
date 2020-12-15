@@ -20,5 +20,3 @@ chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Ligh
 
 https://github.com/exrat/rutorrent-bonobox  
 https://mondedie.fr/d/5399-script-installation-automatique-rutorrent-nginx  
-
-cd /var/www/rutorrent/plugins/theme/themes && rm -r rtModern-Light-Orange && git clone git://github.com/Teal-c/rtModern-Light-Orange.git rtModern-Light-Orange && chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Light-Orange
