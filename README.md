@@ -14,7 +14,9 @@ git clone git://github.com/Teal-c/rtModern-Light-Orange.git rtModern-Light-Orang
 ```
 chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Light-Orange
 ```
+#### Les autres thèmes
 
+github : https://github.com/Teal-c/rtModern
 
 #### Script d'installation ruTorrent Bonobox
 
